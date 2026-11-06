@@ -1,0 +1,14 @@
+{
+  "_comment": "อายุ 35 เกษียณ 60 ใช้ชีวิตถึง 85 ค่าใช้จ่าย 30,000/เดือน (มูลค่าวันนี้)",
+  "current_age": 35,
+  "retirement_age": 60,
+  "life_expectancy": 85,
+  "monthly_expense_today": 30000,
+  "inflation": 0.03,
+  "return_before_retirement": 0.05,
+  "return_after_retirement": 0.03,
+  "current_savings": 800000,
+  "other_monthly_income_today": 3000,
+  "annuity_annual_payout": 120000,
+  "annuity_payout_years": 25
+}

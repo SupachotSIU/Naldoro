@@ -1,0 +1,10 @@
+{
+  "_comment": "เงินเดือนปีละ 1.2 ล้าน มีประกันสังคม 9,000 และ PVD 60,000",
+  "salary_income": 1200000,
+  "other_deductions": 9000,
+  "other_retirement_funds": 60000,
+  "life_premium": 60000,
+  "health_premium": 25000,
+  "parents_health_premium": 15000,
+  "annuity_premium": 100000
+}

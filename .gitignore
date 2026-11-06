@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+# ข้อมูลลูกค้าจริง ห้าม commit
+cases/

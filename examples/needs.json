@@ -1,0 +1,13 @@
+{
+  "_comment": "พ่อบ้านอายุ 35 ลูก 2 คน ต้องดูแลครอบครัว 20 ปี",
+  "annual_family_expense": 480000,
+  "years_of_support": 20,
+  "inflation": 0.03,
+  "discount_rate": 0.04,
+  "debts": 2500000,
+  "education_fund": 2000000,
+  "final_expenses": 200000,
+  "emergency_fund": 240000,
+  "existing_life_cover": 1000000,
+  "liquid_assets": 500000
+}

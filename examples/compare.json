@@ -1,0 +1,31 @@
+{
+  "_comment": "เปรียบเทียบ 2 แบบ ที่อัตราภาษีส่วนเพิ่ม 20% (ตัวเลขสมมติ)",
+  "tax_rate": 0.2,
+  "plans": [
+    {
+      "name": "แบบ A สะสมทรัพย์ 10/6",
+      "annual_premium": 100000, "premium_years": 6, "sum_assured": 600000,
+      "benefits": [{"year": 5, "amount": 60000}, {"year": 10, "amount": 630000}]
+    },
+    {
+      "name": "แบบ B บำนาญ จ่าย 15 ปี รับปีละ 60,000 อายุ 60-85",
+      "annual_premium": 50000, "premium_years": 15, "sum_assured": 500000,
+      "deductible_per_year": 50000,
+      "benefits": [
+        {"year": 26, "amount": 60000}, {"year": 27, "amount": 60000},
+        {"year": 28, "amount": 60000}, {"year": 29, "amount": 60000},
+        {"year": 30, "amount": 60000}, {"year": 31, "amount": 60000},
+        {"year": 32, "amount": 60000}, {"year": 33, "amount": 60000},
+        {"year": 34, "amount": 60000}, {"year": 35, "amount": 60000},
+        {"year": 36, "amount": 60000}, {"year": 37, "amount": 60000},
+        {"year": 38, "amount": 60000}, {"year": 39, "amount": 60000},
+        {"year": 40, "amount": 60000}, {"year": 41, "amount": 60000},
+        {"year": 42, "amount": 60000}, {"year": 43, "amount": 60000},
+        {"year": 44, "amount": 60000}, {"year": 45, "amount": 60000},
+        {"year": 46, "amount": 60000}, {"year": 47, "amount": 60000},
+        {"year": 48, "amount": 60000}, {"year": 49, "amount": 60000},
+        {"year": 50, "amount": 60000}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "_comment": "รายได้ปีละ 900,000 ใช้จ่ายส่วนตัว 30% อีก 25 ปีเกษียณ",
+  "annual_income": 900000,
+  "personal_consumption_ratio": 0.3,
+  "years_to_retirement": 25,
+  "income_growth": 0.03,
+  "discount_rate": 0.04
+}

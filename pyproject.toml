@@ -1,0 +1,8 @@
+[project]
+name = "naldoro-calc"
+version = "0.1.0"
+description = "Calculation library for Naldoro insurance-planning agents"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+packages = ["naldoro_calc"]

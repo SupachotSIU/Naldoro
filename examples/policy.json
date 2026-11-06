@@ -1,0 +1,16 @@
+{
+  "_comment": "สะสมทรัพย์ 10 ปี จ่าย 6 ปี เงินคืนปีละ 2% ของทุน ครบสัญญา 105%",
+  "name": "สะสมทรัพย์ 10/6",
+  "annual_premium": 100000,
+  "premium_years": 6,
+  "sum_assured": 600000,
+  "coverage_years": 10,
+  "benefits": [
+    {"year": 1, "amount": 12000}, {"year": 2, "amount": 12000},
+    {"year": 3, "amount": 12000}, {"year": 4, "amount": 12000},
+    {"year": 5, "amount": 12000}, {"year": 6, "amount": 12000},
+    {"year": 7, "amount": 12000}, {"year": 8, "amount": 12000},
+    {"year": 9, "amount": 12000}, {"year": 10, "amount": 630000}
+  ],
+  "tax_rate": 0.2
+}
